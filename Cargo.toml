@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_hub"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_hub"
+path = "src/lib.rs"
